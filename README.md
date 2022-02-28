@@ -1,5 +1,5 @@
 # Click Through Rate Prediction
-## Predict whether a mobile ad will be clicked using tensorflow random forests algorithms.
+### Predict whether a mobile ad will be clicked using tensorflow random forests algorithms.
 
 Click-through rate (CTR) is a very common way to predict if a certain ad will be clicked or not. This metric is the relationship between users who clicked on the ad and all users (taking into account those who clicked and those who did not). This way we can have a good visibility on whether an advertisement is effective or not.
 
